@@ -44,3 +44,5 @@ Fetch phase -> Decode phase -> seek register ----> excute phase -> read&&write
 4. Control Unit
 5. time clock
 6. CPU
+7. cache
+8. Bus
