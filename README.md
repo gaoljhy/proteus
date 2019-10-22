@@ -33,7 +33,9 @@
 <br>
 
 ****
-取指令 -> 解码 -> 寻址 ---> 运算 -> 写入读入
+
+> 取指令 -> 解码 -> 寻址 ---> 运算 -> 写入读入
+
 Fetch phase -> Decode phase -> seek register ----> excute phase -> read&&write
 
 1. ALU
