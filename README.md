@@ -33,6 +33,11 @@
 <br>
 
 ****
+取指令 -> 解码 -> 寻址 ---> 运算 -> 写入读入
+Fetch phase -> Decode phase -> seek register ----> excute phase -> read&&write
 
 1. ALU
-2. 存储器
+2. Register Unit
+3. RAM
+4. Control Unit
+5. time clock
