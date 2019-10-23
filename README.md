@@ -39,10 +39,9 @@
 Fetch phase -> Decode phase -> seek register ----> excute phase -> read&&write
 
 1. ALU
-2. Register Unit
-3. RAM
-4. Control Unit
+2. Register 
+3. RAM ROM
+4. Compare 
+5. Control Unit
 5. time clock
 6. CPU
-7. cache
-8. Bus
